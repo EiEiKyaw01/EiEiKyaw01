@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on building JavaScript projects to enhance my frontend development skills.<br>👯 I’m looking to collaborate on exciting web design and frontend development projects.<br>🤝 I’m looking for help with mastering advanced JavaScript concepts and frameworks.<br>🌱 I’m currently learning JavaScript, HTML, CSS, and diving into modern frontend tools.<br>💬 Ask me about learning paths for aspiring frontend developers or beginner-friendly JavaScript tips.<br>⚡ Fun fact: I started coding as a hobby and now dream of creating interactive, user-friendly web apps!
 
-<!--
-**AkiKyaw/AkiKyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AkiKyaw&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AkiKyaw&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiKyaw&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=AkiKyaw&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
